@@ -1,6 +1,14 @@
 Adding feature 105
 
 hello java
+<<<<<<< HEAD
 Testing starch
 Adding in main (For Cherry check)
 Adding in main branch (For Cherry check new)
+=======
+<<<<<<< HEAD
+=======
+Testing starch
+Adding in main (For Cherry check)
+>>>>>>> b9a506f (adding in main)
+>>>>>>> 3cd9378a0e67db8fc5296cd05356b79fbfb8d8bc
